@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 ext {
-    bintrayRepo = 'foody'
+    bintrayRepo = 'maven'
     bintrayName = 'DemoLibrary'
 
     publishedGroupId = 'com.eaglecs.newlib'
