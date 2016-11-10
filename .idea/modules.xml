@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoLib.iml" filepath="$PROJECT_DIR$/DemoLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewLib.iml" filepath="$PROJECT_DIR$/NewLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demolibrary/demolibrary.iml" filepath="$PROJECT_DIR$/demolibrary/demolibrary.iml" />
     </modules>
   </component>
 </project>
