@@ -18,7 +18,7 @@ ext {
 
     libraryVersion = '0.0.1'
 
-    developerId = 'eaglecs'
+    developerId = 'anheaglecs'
     developerName = 'Le Duc Anh'
     developerEmail = 'demo.eaglecs@gmail.com'
 
