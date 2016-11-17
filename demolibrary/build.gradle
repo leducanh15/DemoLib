@@ -1,7 +1,5 @@
 apply plugin: 'com.android.library'
 
-
-
 ext {
     bintrayRepo = 'maven'
     bintrayName = 'demolibrary'
@@ -165,4 +163,3 @@ dependencies {
 // Place it at the end of the file
 apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/installv1.gradle'
 apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/bintrayv1.gradle'
-

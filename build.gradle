@@ -21,4 +21,10 @@ allprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+//    Properties properties = new Properties()
+//    properties.load(project.rootProject.file('local.properties').newDataInputStream())
+//
+//    println properties.getProperty("bintray.user")
+//    println properties.getProperty("bintray.apikey")
+//    println properties.getProperty("bintray.gpg.password")
 }
